@@ -29,8 +29,9 @@ To run this project, you need the following Python libraries:
 
 ## Run the project 
 ```bash
-pip install opencv-python mediapipe pyautogui pynput
 
 git clone https://github.com/Syam-1133/AI-Hand-Gesture-Controlled-Mouse
+
+pip install opencv-python mediapipe pyautogui pynput
 
 python main.py
